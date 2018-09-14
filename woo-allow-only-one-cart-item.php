@@ -2,7 +2,7 @@
 /*
 Plugin Name: WooCommerce - Allow Only One Item in Cart
 Description: Removes all items from cart before another item is added.
-Version: 0.1.0
+Version: 1.0.0
 Author: Marcus Jaschen
 Author URI: https://www.marcusjaschen.de/
 License: GPL3
